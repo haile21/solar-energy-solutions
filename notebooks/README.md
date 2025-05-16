@@ -15,7 +15,8 @@
    ```bash
    source ../venv/bin/activate   # or ../venv/Scripts/activate on Windows
 
-1. Launch Jupyter Lab or Notebook:
+2. Launch Jupyter Lab or Notebook:
+   ```bash
    jupyter lab
    # or
    jupyter notebook
